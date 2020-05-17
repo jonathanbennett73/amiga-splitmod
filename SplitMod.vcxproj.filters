@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="splitmod.c">
+    <ClCompile Include="splitmod2.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
